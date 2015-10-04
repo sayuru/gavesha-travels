@@ -318,20 +318,6 @@ button{
 	padding: 32px 30px 26px 30px;
 	min-width:80px;
 }
-.icon-semi-rounded-a{
-	margin:0 auto;
-	border:2px solid transparent;
-	border-radius: 20px 0;
-	padding: 32px 30px 26px 30px;
-	min-width:80px;
-}
-.icon-semi-rounded-b{
-	margin:0 auto;
-	border:2px solid transparent;
-	border-radius: 0 20px;
-	padding: 32px 30px 26px 30px;
-	min-width:80px;
-}
 .icon-round,.icon-md,.icon-square.icon-md,.icon-rounded.icon-md{
 	min-width: 92px;
 }
@@ -343,11 +329,6 @@ button{
 }
 
 
-/* = Text & Icon Styles
--------------------------------------------------------------- */
-.lg-shadow{
-	text-shadow:0 2px 5px rgba(0,0,0,.5);
-}
 
 
 .panel-sq, .panel-sq .panel-heading, .panel-sq .panel-footer{
@@ -365,19 +346,6 @@ button{
 
 
 
-/* Empty space fillers - Used on empty blocs to fill them out */
-
-.empty-column,.empty-column.thin{
-	width:100%;
-	height:350px;
-	display:inline-block;
-}
-.empty-column{
-	height:350px;
-}
-.empty-column.thin{
-	height:150px;
-}
 /* iFrame */
 
 iframe{
@@ -413,36 +381,26 @@ iframe{
 .bgc-outer-space{
 	background-color:#47454B;
 }
-.bgc-msu-green{
-	background-color:#113E43;
+.bgc-white{
+	background-color:#ffffff;
 }
 .bgc-beaver{
 	background-color:#9B8671;
 }
-/* Icon colour styles */
-
-.icon-united-nations-blue{
-	color:#51A2E7!important;
-	border-color:#51A2E7!important;
-}
-.icon-maya-blue{
-	color:#5DC0E7!important;
-	border-color:#5DC0E7!important;
-}
 
 /* Bloc image backgrounds */
 
-}.bg-lines-v-bg{
-	background-image:url('img/lines-v-bg.png');
-}
-.bg-squared-d-bg{
-	background-image:url('img/squared-d-bg.png');
+}.bg-city-overlay{
+	background-image:url("img/city-overlay.png");
 }
 .bg-map{
-	background-image:url('img/map.jpg');
+	background-image:url("img/map.jpg");
 }
 .bg-newyork{
-	background-image:url('img/newyork.jpg');
+	background-image:url("img/newyork.jpg");
+}
+.bg-lines-h-bg{
+	background-image:url('img/lines-h-bg.png');
 }
 
 
