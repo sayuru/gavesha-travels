@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    GT
+/*	    gavesha-travels
 /*      Built with Blocs
 /*-----------------------------------------------------------------------------------*/
 
@@ -53,6 +53,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 /* Sizes */
 
+.bloc-xxl{
+	padding:200px 50px;
+}
 .bloc-md{
 	padding:50px;
 }
@@ -434,7 +437,7 @@ iframe{
 	background-image:url("img/newyork.jpg");
 }
 .bg-map{
-	background-image:url('img/map.jpg');
+	background-image:url("img/map.jpg");
 }
 
 
