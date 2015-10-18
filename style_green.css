@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    gavesha-travels
-/*      Built with Blocs
+/*	    GaveshaTravels.com
+/*      Built by Rabbit
 /*-----------------------------------------------------------------------------------*/
 
 body{
@@ -428,8 +428,8 @@ iframe{
 
 /* Background colour styles */
 
-.bgc-smoky-black{
-	background-color:#0F0304;
+.bgc-jungle-green{
+	background-color: navy;
 }
 .bgc-medium-jungle-green{
 	background-color:#2D2B30;
@@ -437,18 +437,13 @@ iframe{
 .bgc-outer-space{
 	background-color:#47454B;
 }
-/* Text colour styles */
-
-.tc-white{
-	color:#ffffff!important;
-}
 /* Link colour styles */
 
-.ltc-white{
-	color:#ffffff!important;
+.ltc-outer-space{
+	color:#47454B!important;
 }
-.ltc-white:hover{
-	color:#ffffff!important;
+.ltc-outer-space:hover{
+	color:#3b393e!important;
 }
 
 /* Bloc image backgrounds */
