@@ -206,6 +206,12 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 /* Bloc text custom styling */
 
+#bloc-3 h3{
+	font-size: 30px;
+}
+#bloc-3 p{
+	font-size: 24px;
+}
 #bloc-5 h3{
 	font-weight: 700;
 	font-family: Ubuntu;
