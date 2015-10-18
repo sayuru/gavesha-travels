@@ -109,6 +109,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 .bg-b-edge{
 	background: bottom no-repeat;
 }
+.bg-br-edge{
+	background: bottom right no-repeat;
+}
 
 
 /* Background Effects */
@@ -449,8 +452,11 @@ iframe{
 .bg-img-1-bw{
 	background-image:url('img/img_1_bw.jpg');
 }
-.bg-contact-bg{
-	background-image:url('img/contact-bg.jpg?timestamp=1445184452964');
+.bg-lines-dl{
+	background-image:url('img/lines-dl.png');
+}
+.bg-lines-dr-bg{
+	background-image:url('img/lines-dr-bg.png');
 }
 
 
